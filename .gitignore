@@ -1,0 +1,10 @@
+other/
+.venv/
+.vscode/
+.cache/
+__pycache__/
+output/
+notes/
+screenshots/
+tmp/
+
