@@ -2,6 +2,8 @@
 
 Proof of concept showing how to take cleaned up, arbitrary sized screenshots of an embedded Streetview using [`html2canvas.js`](https://html2canvas.hertzen.com/) and the [Google Maps JS API Street View Service](https://developers.google.com/maps/documentation/javascript/streetview).
 
+See a detailed breakdown on my blog: [loichovon.com/posts/streetview-screenshots.html](https://loichovon.com/posts/streetview-screenshots.html)
+
 ![UI](./assets/ui.jpg)
 
 
