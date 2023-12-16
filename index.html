@@ -35,7 +35,7 @@
     <div id="test-screenshot-container" class="centered"></div>
     
     <script>
-      // Hack to augment to set preserveDrawingBuffer=true to the WebGL context
+      // Hack to set preserveDrawingBuffer=true on the WebGL context
       // This is necessary to take a screenshot of streetview with html2canvas 
       // https://stackoverflow.com/questions/26783586/canvas-todataurl-returns-blank-image
       HTMLCanvasElement.prototype.getContext = function(origFn) {
